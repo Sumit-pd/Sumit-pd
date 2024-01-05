@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a 3nd year btech student and aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.<br>
+🔭 I am a 3rd year btech student and aspiring software engineer who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries.<br>
 Feel free to get in touch with me via email at pdsumit07@gmail.com
 
 My passion lies in solving business problems with tailored data and algorithms and communicating complex ideas to non-technical stakeholders.
